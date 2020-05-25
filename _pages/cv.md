@@ -17,4 +17,4 @@ Education
 
 [Download Resume](http://saikath1.github.io/files/Resume.pdf)
 
-1<br/><img src='/files/Resume.pdf'>"
+<br/><img src='http://saikath1.github.io/files/Resume.pdf'>
