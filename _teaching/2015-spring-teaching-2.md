@@ -8,7 +8,7 @@ date: 2014-01-01
 location: "Dartmouth, USA"
 ---
 
-I have mentored students through office hours and one-on-one meetings. One of the important tasks as a teaching assistant was to check assignments, proctored tests, and provided grades according to university standards
+I have mentored students through office hours and one-on-one meetings. One of the important tasks as a teaching assistant was to check assignments, proctored tests, and provided grades according to university standards.
 
  The following are the list of courses have TA'd for:
 1. ECE 260 Digital Logic & Computer Design, Fall 2015, Spring 2015, Fall 2016
