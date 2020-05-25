@@ -18,13 +18,8 @@ Education
 
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download Resume](http://saikath1.github.io/files/Resume.pdf)
+![Download Resume](http://saikath1.github.io/files/Resume.pdf)
 
-
-<object data="http://saikath1.github.io/files/Resume.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://saikath1.github.io/files/Resume.pdf">
-    </embed>
-</object>
 
 
 Skills
