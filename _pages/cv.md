@@ -22,7 +22,10 @@ This paper is about the number 1. The number 2 is left for future work.
 
 ![Bio](<a href="http://saikath1.github.io/files/Resume.pdf" class="image fit" ></a>)
 
-
+<object data="http://saikath1.github.io/files/Resume.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://saikath1.github.io/files/Resume.pdf">
+    </embed>
+</object>
 
 
 Skills
