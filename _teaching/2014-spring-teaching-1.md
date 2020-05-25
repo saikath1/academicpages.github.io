@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Lecturer"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "kalinga Institute of Industrial Technology, School of Electronics Engineering"
+date: 2011-07-01
+location: "Bhubaneswar, India"
 ---
+	As a lecture my primary responsibilities were to develop semester outlines and course instructional plans for each class session to comply with stated course objectives. The class consisted of students using lectures, discussions and demonstrations.
+  I taught the following courses:
+  1. Computer Communication Networks, Fall 2011,  
+  2.  Information Theory and Coding Spring 2013
+  3. Optical and Satellite Communication Spring 2013, Spring 2014
+  4. Electromagnetic Theory Fall 2013
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+  ###### Briefly worked  (Fall 2012) at University of Canterbury, Christchurch, New Zealand ######
