@@ -20,7 +20,7 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download Resume](http://saikath1.github.io/files/Resume.pdf)
 
-<a href="http://saikath1.github.io/files/Resume.pdf" class="image fit" ></a>
+![Bio](<a href="http://saikath1.github.io/files/Resume.pdf" class="image fit" ></a>)
 
 
 
