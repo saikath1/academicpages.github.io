@@ -15,10 +15,6 @@ I graduated with top 5% in the class with a Master's of Technology  from the kal
 Research
 ======
 
-I am interested in the intersection of reliability, life cycle cost estimation, and machine learning. Specifically, I use applied machine leaning methods to predict system failure. I have researched the factors that lead adolescents and young adults to indulge in risky behaviors and how policy-makers can effectively and efficiently provide high-quality health care for people with substance use disorders.
+I am interested in the intersection of reliability, life cycle cost estimation, and machine learning. Specifically, I use applied machine leaning methods to predict system failure. I have researched the tradespace exploration and subsystem reliability investment models to reduce lifecycle operational and support cost for rotorcrafts. I have also developed new cost-based metrics and framework to assess Li-ion battery prognostics.
 
-My work has been featured in  Research in Engineering Design Journal, International Journal of Reliability, Quality and Safety Engineering, American Helicopter Society, and IEEE Annual Reliability and Maintainability Symposium, and in Massachusetts Department of Transportation.
-
-Announcements
-
-======
+My work has been published in  Research in Engineering Design Journal, International Journal of Reliability, Quality and Safety Engineering, American Helicopter Society, and IEEE Annual Reliability and Maintainability Symposium, and in Massachusetts Department of Transportation.
