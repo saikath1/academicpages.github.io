@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Massachusetts Dartmouth, Electrical and Computer Department"
-date: 2016
+date: 2015-01-01
 location: "Dartmouth, USA"
 ---
 
