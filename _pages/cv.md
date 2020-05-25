@@ -14,6 +14,6 @@ redirect_from:
 [Click here to download a PDF of my Resume](http://saikath1.github.io/files/Resume.pdf)
 <body>
    <h2>Resume</h2>
-   <iframe src="/files/Resume.pdf" width="100%" height="500px">
+   <iframe src="/files/Resume.pdf" width="100%" height="800px">
    </iframe>
  </body>
