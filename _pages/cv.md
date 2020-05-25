@@ -17,4 +17,8 @@ Education
 
 [Download Resume](http://saikath1.github.io/files/Resume.pdf)
 
-<br/><img src='http://saikath1.github.io/files/Resume.pdf'>
+<body>
+   <h1>PDF Example with iframe</h1>
+   <iframe src="/files/Resume.pdf" width="100%" height="500px">
+   </iframe>
+ </body>
