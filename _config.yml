@@ -236,12 +236,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _research
   - scope:
       path: ""
       type: research
     values:
-      layout: research
+      layout: single
       author_profile: true
       share: true
 
