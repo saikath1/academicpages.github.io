@@ -82,13 +82,3 @@ VA, June 2015.
 1. S. Bhattacharya Cooperative Relay Scheduling for Real Time Wireless Industrial
 Network, Presented at University of Canterbury, Computer and Software Engineering
 Graduate Research Showcase, August 2012.
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=D2nEigIAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
