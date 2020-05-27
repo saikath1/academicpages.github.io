@@ -10,8 +10,6 @@ Journals
 4. S. Bhattacharya, V. Nagaraju, E. Spero, A. Ghoshal, L. Fiondella, Rotorcraft Tradespace Exploration incorporating Reliability and Availability, In Research in Engineering Design, Volume 29, Isue 4, pp 589-603, 2018.
 3. A. Krishna Murthy, S. Bhattcharya, L. Fiondella, Optimal Reliability and Cost of Non-Repairable Systems subject to Two Failure Modes considering Correlated Failures, In International Journal of Reliability, Quality and Safety Engineering, Volume 25, Issue 5, 2018
 2. S. Bhattacharya and S S Singh, A Comparative Approach For Location Management Using ARMA, Non-Linear Auto Regression And Neural Network For Cellular Networks, In Far East Journal of Electronics and Communications Volume 13, Issue 1, pp 17 - 27 2014
-
-
 1. A Mishra, S S Singh, S. Bhattacharya and P K Pattnaik, A Novel Area Coverage Management Scheme For Sensor Network With Mobile Sensor Nodes, in Indian Journal of Science and Technology Volume 5 Issue 8 2012.
 
 Conferences
