@@ -15,9 +15,9 @@ I graduated with top 5% in the class with a Master's of Technology  from the Kal
 
 Area of interest
 ---
-I am interested in the intersection of reliability, life cycle cost estimation, and test and validation of AI systems. I use applied machine leaning methods to predict system failure. I have researched the tradespace exploration, design of alternates, and subsystem reliability investment models to reduce lifecycle operational and support cost for rotorcrafts. I have also developed new cost-based metrics and framework to assess Li-ion battery prognostics.
+I am interested in the intersection of reliability engineering, life cycle cost estimation, and test and validation of AI systems. I use applied machine leaning methods to predict system failure. I have researched the tradespace exploration, design of alternates, and subsystem reliability investment models to reduce lifecycle operational and support cost for rotorcrafts. I have also developed new cost-based metrics and framework to assess Li-ion battery prognostics.
 
-Area of interest
+Announcements
 ---
 1. Our paper titled "Software and System Reliability Engineering for Autonomous Systems incorporating Machine Learning" won the SRE Stan Ofsthun Best Student Paper Award at the Annual Reliability and Maintainability Symposium, Palm Spring, CA, Jan. 2020.
 2. Selected for Research Associateship Program (RAP) U.S. Army Research Laboratory (US-ARL) to work on "Tradespace exploration incorporating PHM for RAMS+C"  
