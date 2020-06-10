@@ -1,7 +1,7 @@
 ---
 title: "Lecturer"
 collection: teaching
-type: ""
+type: 
 permalink: /teaching/2014-spring-teaching-1
 venue: "Kalinga Institute of Industrial Technology, School of Electronics Engineering"
 date: 2011-07-01
