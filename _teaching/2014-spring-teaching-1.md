@@ -1,9 +1,9 @@
 ---
 title: "Lecturer"
 collection: teaching
-type: "Workshop"
+type: ""
 permalink: /teaching/2014-spring-teaching-1
-venue: "kalinga Institute of Industrial Technology, School of Electronics Engineering"
+venue: "Kalinga Institute of Industrial Technology, School of Electronics Engineering"
 date: 2011-07-01
 location: "Bhubaneswar, India"
 ---
