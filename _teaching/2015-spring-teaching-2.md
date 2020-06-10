@@ -1,7 +1,7 @@
 ---
 title: "Graduate Teaching Assistant"
 collection: teaching
-type: "Workshop"
+type: ""
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Massachusetts Dartmouth, Electrical and Computer Department"
 date: 2014-01-01
