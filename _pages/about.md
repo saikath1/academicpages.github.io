@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Saikath Bhattacharya. I completed my PhD from the [Dependable Software and Systems Laboratory](https://lfiondella.sites.umassd.edu/) with [Dr. Lance Fiondella] (https://www.umassd.edu/directory/lfiondella/) at the [University of Massachusetts, Dartmouth](https://www.umassd.edu/engineering/ece/). 
+My name is Saikath Bhattacharya. I completed my PhD from the [Dependable Software and Systems Laboratory](https://lfiondella.sites.umassd.edu/) with [Dr. Lance Fiondella](https://www.umassd.edu/directory/lfiondella/) at the [University of Massachusetts, Dartmouth](https://www.umassd.edu/engineering/ece/). 
 
 I graduated with top 5% in the class with a Master's of Technology  from the Kalinga Institute of Industrial Technology (KIIT) in Communication Systems in 2011 and with a Bachelor's of Engineering from Nagpur University in 2009. From 2011-2014, I was a Lecturer at School of Electronics, KIIT.
 
